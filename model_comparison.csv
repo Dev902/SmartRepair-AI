@@ -1,0 +1,2 @@
+Model,Training records,Test records,Accuracy,Precision,Recall,F1 Score
+Logistic Regression (60k stratified sample),48000,12000,0.35833333333333334,0.49892106554212173,0.35833333333333334,0.3653720294915556

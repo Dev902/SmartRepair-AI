@@ -1,0 +1,5 @@
+Actual / Predicted,End of life,Fixed,Repairable,Unknown
+End of life,1265,610,899,277
+Fixed,1846,1886,2078,674
+Repairable,516,351,1056,199
+Unknown,38,39,35,231

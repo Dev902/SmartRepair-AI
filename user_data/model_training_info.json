@@ -1,0 +1,21 @@
+{
+  "model": "Logistic Regression",
+  "trained_at": "2026-10-26T01:05:02",
+  "sample_size": 60000,
+  "user_added_records": 0,
+  "train_size": 48000,
+  "test_size": 12000,
+  "random_state": 42,
+  "features": [
+    "product_age",
+    "year_of_manufacture",
+    "event_year",
+    "event_month",
+    "product_category_id",
+    "brand",
+    "country",
+    "data_provider"
+  ],
+  "target": "repair_status",
+  "notes": "Retrained from the app: all user-added records plus a stratified sample of the original dataset."
+}

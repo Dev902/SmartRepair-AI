@@ -1,0 +1,2 @@
+Model,Training records,Test records,Accuracy,Precision,Recall,F1 Score
+"Logistic Regression (retrained, 60,000 records incl. 0 user-added)",48000,12000,0.36983333333333335,0.49154856027058264,0.36983333333333335,0.3812909706097442
